@@ -8,8 +8,8 @@ function checkprime(num) {
       if(count==2){
         console.log(num,"is Prime Number");
         
-    } if(count>2)   {
+     }if(count>2){
       console.log(num, "Not a Prime Number");
-   
-  }
-checkprime(5)
+ }
+ 
+checkprime(15)
